@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000127.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>gawang</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>3</ymin>
+      <xmax>1056</xmax>
+      <ymax>717</ymax>
+    </bndbox>
+  </object>
+</annotation>
